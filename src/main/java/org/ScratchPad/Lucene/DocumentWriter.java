@@ -1,4 +1,4 @@
-package org.example;
+package org.ScratchPad.Lucene;
 
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.codecs.Codec;

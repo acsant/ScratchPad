@@ -1,4 +1,4 @@
-package org.example;
+package org.ScratchPad.Lucene;
 
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
